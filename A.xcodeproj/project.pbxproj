@@ -20,11 +20,11 @@
 		85027EAF15AA81B3003C535A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		85027EB115AA81B3003C535A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		85027EB315AA81B3003C535A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		85027EB715AA81B3003C535A /* A-Info.plist */ = {isa = PBXFileReference; path = "A-Info.plist"; sourceTree = "<group>"; };
+		85027EB715AA81B3003C535A /* A-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "A-Info.plist"; sourceTree = "<group>"; };
 		85027EB915AA81B3003C535A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		85027EBB15AA81B3003C535A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		85027EBD15AA81B3003C535A /* A-Prefix.pch */ = {isa = PBXFileReference; path = "A-Prefix.pch"; sourceTree = "<group>"; };
-		85027EBE15AA81B3003C535A /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		85027EBD15AA81B3003C535A /* A-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "A-Prefix.pch"; sourceTree = "<group>"; };
+		85027EBE15AA81B3003C535A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		85027EBF15AA81B3003C535A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
